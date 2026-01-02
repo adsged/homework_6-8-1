@@ -1,0 +1,27 @@
+body {
+	padding: 30px 50px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+}
+input {
+	margin-left: 10px;
+	padding: 5px;
+}
+button {
+	margin-left: 10px;
+	padding: 5px 10px;
+	background-color: #708090;
+	color: #FFF;
+	border: none;
+	height: 29px;
+	cursor: pointer;
+	transition: background-color ease 0.4s; 
+}
+
+button:hover {
+	background: #2F4F4F;
+}
+#duplicateField {
+	color: #0000CD;
+	font-style: italic;
+}
